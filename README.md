@@ -1,4 +1,4 @@
-> Bynthtcs
+> Интерактивные дашборды (аналитические панели)
 
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
